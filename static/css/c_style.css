@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../image/coon.jpg);
+}
+
+
+.top {
+        display:column;
+        justify-content: left;
+        align-items: center;
+        color: rgb(24, 21, 21);
+        /* border: 2px red solid; */
+        margin-top: 160px;
+        margin-left: 15px;
+
+}
+
+.top h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3pc;
+    color: rgb(44, 43, 41);
+}
+
+
+.top h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2pc;
+    color: rgb(63, 60, 58);
+    text-align: center;
+    width: 60%;
+    font-size: 5pc;
+}
+
+
+.top p {
+    font-family: 'David Libre', serif;
+    font-size: 2pc;
+    color: rgb(46, 35, 30);
+}
