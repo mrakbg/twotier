@@ -60,13 +60,6 @@ subhankar@lenovo:~/kyo$ tree
 │       ├── snow-3183568_1920.jpg
 │       ├── sosay.jpg
 │       ├── stack.png
-│       ├── TCS-National-Qualifier-Test-Aptitude-Paper-@-Recruitmentindia.in_.pdf
-│       ├── TCS-Ninja-Practice-Paper-@-Recruitmentindia.in_.pdf
-│       ├── TCS-Ninja-Question-Paper-@-Recruitmentindia.in_.pdf
-│       ├── TCS-NQT-Coding-Questions-@-Recruitmentindia.in_.pdf
-│       ├── TCS-NQT-Placement-Paper-@-Recruitmentindia.in_.pdf
-│       ├── TCS-NQT-Question-Paper-@-Recruitmentindia.in_.pdf
-│       ├── TCS-NQT-Questions-Answers-@-Recruitmentindia.in_.pdf
 │       ├── tecnick.jpg
 │       └── toor.jpg
 └── templates
