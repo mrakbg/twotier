@@ -1,6 +1,6 @@
 #### django_web_app_kyokusen
 
-'''
+```
 you have to make a directory kyo using [~$ mkdir kyo]
 then in kyo directory you past the all file.
 Here is my file structure.
@@ -86,4 +86,4 @@ Quit the server with CONTROL-C.
 django web app [Kyokusen-home].
 my first web app in github :) :)
 
-'''
+```
