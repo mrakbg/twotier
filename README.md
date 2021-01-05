@@ -1,4 +1,4 @@
-###### **django_web_app_kyokusen**
+##### **django_web_app_kyokusen**
 
 ```
 you have to make a directory kyo using [~$ mkdir kyo]
