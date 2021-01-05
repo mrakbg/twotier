@@ -1,3 +1,9 @@
+## Images of website
+![](images/font.png/)
+
+
+
+
 # **django_web_app_kyokusen**
 
 ```
