@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '1m_jg)gy@u=bm*yq_p34q-qcvwm9@du$e^^2tpex(8$h@khx28'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False #True
 
 ALLOWED_HOSTS = []
 
@@ -141,7 +141,7 @@ STATICFILES_DIRS = [
 
 EMAIL_HOST ='smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'subhankardey.kalirhat@gmail.com'
+EMAIL_HOST_USER = '1234abc@gmail.com'
 EMAIL_HOST_PASSWORD = '***************'   # use pass word
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
