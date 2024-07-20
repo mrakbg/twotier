@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'kyo_database',
         'USER': 'root',
-        'PASSWORD': 'Subhankar@9635',
+        'PASSWORD': '**************',
         'HOST': 'localhost',
         'PORT': '',
     }
